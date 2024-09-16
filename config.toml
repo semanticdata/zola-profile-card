@@ -1,4 +1,4 @@
-base_url = "https://semanticdata.github.io/profile-card"
+base_url = "https://semanticdata.github.io/zola-profile-card"
 title = "Zola Profile Card"
 description = "A simple profile card for Zola."
 compile_sass = true

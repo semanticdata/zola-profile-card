@@ -1,16 +1,16 @@
 # Zola Profile Card
 
 <p align="">
-  <img src="https://img.shields.io/github/languages/code-size/semanticdata/zola-sandbox" />
-  <img src="https://img.shields.io/github/repo-size/semanticdata/zola-sandbox" />
-  <img src="https://img.shields.io/github/commit-activity/t/semanticdata/zola-sandbox" />
-  <img src="https://img.shields.io/github/last-commit/semanticdata/zola-sandbox" />
-  <img src="https://img.shields.io/website/https/zola-sandbox.svg" />
+  <img src="https://img.shields.io/github/languages/code-size/semanticdata/zola-profile-card" />
+  <img src="https://img.shields.io/github/repo-size/semanticdata/zola-profile-card" />
+  <img src="https://img.shields.io/github/commit-activity/t/semanticdata/zola-profile-card" />
+  <img src="https://img.shields.io/github/last-commit/semanticdata/zola-profile-card" />
+  <img src="https://img.shields.io/website/https/zola-profile-card.svg" />
 </p>
 
 A simple profile card for Zola.
 
-Check out the [demo](https://zola-sandbox.vercel.app/).
+Check out the [demo](https://semanticdata.github.io/zola-profile-card/).
 
 ## Running the Site Locally
 
@@ -54,12 +54,6 @@ You can changed the configuration, templates and content yourself. Refer to the 
 ### Custom CSS Styles
 
 Adding custom CSS is as easy as adding your styles to `sass/_custom.scss`. This is made possible because SCSS files are backwards compatible with CSS. This means you can type normal CSS code into a SCSS file and it will be valid.
-
-## Attributions
-
-The icons used throughout the site are kindly provided by [UXWing](https://uxwing.com/license/). Read their [license](https://uxwing.com/license/).
-
-Other icons used come from [Remix Icon](https://remixicon.com/). Check out their [license](https://remixicon.com/license).
 
 ## License
 
